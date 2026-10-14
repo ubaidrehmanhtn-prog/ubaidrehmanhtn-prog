@@ -48,4 +48,5 @@ Right now, I'm focusing on stronger programming foundations, working with real d
 I'm always happy to exchange ideas with people working on AI, software, and hands-on STEM education.
 
 - **GitHub:** [ubaidrehmanhtn-prog](https://github.com/ubaidrehmanhtn-prog)
+- **LinkedIn:** [Ubaid Rahman](https://www.linkedin.com/in/ubaid-rahman-125793376/)
 - **Hugging Face:** [Ubaid328](https://huggingface.co/Ubaid328)
